@@ -1,4 +1,4 @@
- THE PRIMARY ROLE OF AN OPERATING SYSTEM
+specialized processor designed to handle parallel processing
 
- IT IS TO MANAGE HARDWARE AND SOFTWARE RESOURCES,AND IT ACTS AS A CONNECTION BRIDGE BETWEEN THE PHYSICAL PARTS OF THE COMPUTER AND THE USERS.
-# slabs-group-lab
+
+![my processed flowchart] (my chart.png)
